@@ -1,0 +1,15 @@
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\bin\Debug\net7.0\Unity02.exe
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\bin\Debug\net7.0\Unity02.deps.json
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\bin\Debug\net7.0\Unity02.runtimeconfig.json
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\bin\Debug\net7.0\Unity02.dll
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\bin\Debug\net7.0\Unity02.pdb
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\obj\Debug\net7.0\Unity02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\obj\Debug\net7.0\Unity02.AssemblyInfoInputs.cache
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\obj\Debug\net7.0\Unity02.AssemblyInfo.cs
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\obj\Debug\net7.0\Unity02.csproj.CoreCompileInputs.cache
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\obj\Debug\net7.0\Unity02.sourcelink.json
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\obj\Debug\net7.0\Unity02.dll
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\obj\Debug\net7.0\refint\Unity02.dll
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\obj\Debug\net7.0\Unity02.pdb
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\obj\Debug\net7.0\Unity02.genruntimeconfig.cache
+C:\Users\HSEK\Documents\GitHub\eug210\Unity 2\Learning02\obj\Debug\net7.0\ref\Unity02.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "asdBhuGpV2XeRfis8fsf47sIyCbXEPIuiOrfgDFvu9qAGr8BgS9fOVLHzidGOJSHBGEbskppG6oXVyO1GhIHNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HSEK\\Documents\\GitHub\\eug210\\Unity 2\\Learning02\\Unity02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HSEK\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\HSEK\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\HSEK\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\HSEK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
